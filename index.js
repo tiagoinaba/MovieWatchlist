@@ -1,7 +1,7 @@
 const searchBtn = document.getElementById('search-btn')
 const searchInput = document.getElementById('search-input')
 const moviesContainer = document.getElementById('movies')
-const apiUrl = 'http://www.omdbapi.com/?apikey=27523b9c&'
+const apiUrl = 'https://www.omdbapi.com/?apikey=27523b9c&'
 
 
 searchBtn.addEventListener('click', () => {
