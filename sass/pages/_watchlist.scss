@@ -1,0 +1,22 @@
+main {
+    a,
+    a:link,
+    a:hover {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+        text-decoration: none;
+        color: #363636;
+
+        .small {
+            width: 1.6rem;
+        }
+
+        p {
+            font-size: 1.4rem;
+            font-weight: 700;
+
+        }
+    }
+}

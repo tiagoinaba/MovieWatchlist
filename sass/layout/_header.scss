@@ -1,0 +1,24 @@
+header {
+    background-image: url(../images/header-bg.png);
+    background-color: #0E0E0E;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8.2rem 4.6rem 7.8rem 4.2rem;
+
+    h1 {
+        font-size: 4.2rem;
+        font-weight: 800;
+        color: #FFFFFF;
+    }
+
+    a,
+    a:visited,
+    a:link {
+        font-size: 1.4rem;  
+        font-weight: 700; 
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+}
